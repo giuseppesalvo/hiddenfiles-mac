@@ -7,13 +7,13 @@ Mac utility to show/hide hidden files
 
 ## How it works
 
-The application launch this commands in terminal: 
+Terminal commands: 
 
-**For show**
+**Show**
 
     defaults write com.apple.finder AppleShowAllFiles YES && Killall Finder
 
 
-**For hide**
+**Hide**
 
     defaults write com.apple.finder AppleShowAllFiles NO && Killall Finder
