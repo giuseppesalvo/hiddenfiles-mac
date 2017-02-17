@@ -1,5 +1,5 @@
 # Hiddenfiles-mac
-Mac utility for show/hide hidden files
+Mac utility to show/hide hidden files
 
 [Download](https://giuseppesalvo.github.io/hiddenfiles-mac)
 
